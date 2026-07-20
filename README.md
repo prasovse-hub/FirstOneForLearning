@@ -1,4 +1,4 @@
-# FirstOneForLearning(oogabooga)(testbranch)
+# FirstOneForLearning(oogabooga)(testbranch)main	
 
-Yaay, my first....oh actually "HelloGit" then(tryingtochange)(testbranch)
+Yaay, my first....oh actually "HelloGit" then(tryingtochange)(testbranch)main
 
